@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Tejal</h1>
-<!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder2.gif" width="360"/> -->
-  <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder2.gif" width="360" height="400"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /></p>
+<!--   <img align="right" alt="GIF" src="https://github.com/TejalPathak23/TejalPathak23/blob/main/coding.gif" width="360"/> -->
+  <img align="right" alt="GIF" src="https://github.com/TejalPathak23/TejalPathak23/blob/main/coding.gif" width="360" height="400"/>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /></p> -->
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://mobile.twitter.com/TejalPathak23)
 
