@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **TejalPathak23/TejalPathak23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 ***************
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/deep-fumtiya-510958212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@deep-fumtiya-510958212/" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/deep_fumatiya/" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="@deep_fumatiya" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tejal-pathak-84bba31b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@deep-fumtiya-510958212/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/__exquisite__23__/" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="@deep_fumatiya" height="30" width="40" /></a>
 </p>
 
 
-⭐️From [DeepF02](https://github.com/DeepF02)⭐️
+⭐️From [TejalPathak23](https://github.com/TejalPathak23)⭐️
 
 <h3 align="center"> Thanks for reading.. Go ahead and check some of my recent repo's.</h3>
