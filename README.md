@@ -64,10 +64,10 @@ Here are some ideas to get you started:
 ***************
 ## Github Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepF02&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Deep Stats" /> 
-  <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepF02&theme=cobalt" alt="DeepF02" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TejalPathak23&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Tejal's Stats" /> 
+  <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TejalPathak23&theme=cobalt" alt="TejalPathak23" /></p>
 <!-- </p> -->
- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepF02&layout=compact&show_icons=true&theme=cobalt" alt="DeepF02" /></p>
+ <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejalPathak23&layout=compact&show_icons=true&theme=cobalt" alt="TejalPathak23" /></p>
 </p>
 
 ***************
