@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
   
-  ### 🎗 More
+- ### 🎗 More
   ![Devpost](https://img.shields.io/badge/DevPost-100000?style=for-the-badge&logo=Devpost&logoColor=white)
   
 
