@@ -20,9 +20,6 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://github.com/TejalPathak23/TejalPathak23/blob/main/coding.gif" width="360" height="400"/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /></p> -->
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://mobile.twitter.com/TejalPathak23)
-
-
 ## Some info on me<br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Tejal Pathak from India.
 - 🎓 I’m currently pursuing my BE in Computer Engineering from MET's Institute of Engineering , Adgaon , Nashik India.
@@ -74,7 +71,6 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/tejal-pathak-84bba31b1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tejal Pathak" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/tejal.pathak.23/" target="_blank"><img align="center" src="https://github.com/TejalPathak23/TejalPathak23/blob/main/Facebook-logo.png" alt="Tejal Pathak" height="30" width="40" /></a>
 </p>
 
 
