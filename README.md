@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 </p>
 
 
-⭐️From [TejalPathak23](https://github.com/TejalPathak23)⭐️
+⭐️From [Tejal Pathak](https://www.linkedin.com/in/tejal-pathak-666b4a324/)⭐️
 
 <h3 align="center"> Thanks for reading.. Go ahead and check some of my recent repo's.</h3>
