@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and improving my basic CS fundamentals and practising competitive programming.
 - 👯 I always look forward to collaborating on exciting Open-source Projects.
 - 💬 Ask me about Fundamentals of Computer Science,  technologies, Competitive programming and life in general.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tejal-pathak-84bba31b1/).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tejal-pathak-666b4a324/).
 
 
 
