@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ***************
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/tejal-pathak-84bba31b1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tejal Pathak" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tejal-pathak-666b4a324/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tejal Pathak" height="30" width="40" /></a>
 </p>
 
 
