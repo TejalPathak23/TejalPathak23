@@ -31,34 +31,6 @@ Here are some ideas to get you started:
 
 
 
-
-***************
-## Skills
-- ### 👩‍💻Coding Languages
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-  
-- ### 🛢 DBMS
-  ![Firebase](https://img.shields.io/badge/Firebase-4EA94B?style=for-the-badge&logo=Firebase&logoColor=white)
-  ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-- ### 🌐 Web Development
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-339933?style=for-the-badge&logo=JavaScript&logoColor=white)
-  ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
-
-
-- ### ⚙️ Version Control
-  ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  
-  
-- ### 🎗 More
-  ![Devpost](https://img.shields.io/badge/DevPost-100000?style=for-the-badge&logo=Devpost&logoColor=white)
-  
-
-
-
 ***************
 ## Github Stats
 <p align="left">
