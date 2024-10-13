@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /></p> -->
 
 ## Some info on me<br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Tejal Pathak from India.
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px>  I am Tejal Pathak from India.
 - 🎓 I’m currently working as a Salesforce Developer in Drizzle IT Services.
 - 🌱 I’m currently learning and improving my basic CS fundamentals and practising competitive programming.
 - 👯 I always look forward to collaborating on exciting Open-source Projects.
