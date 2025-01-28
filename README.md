@@ -3,8 +3,8 @@
 <h1 align="center"> Welcome Reader/Visitor/Recruiter 👋 I am Tejal</h1>
 
 <!-- Container for text and image -->
-<div style="display: flex; align-items: center;">
-  <div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
     <h2>Some info on me</h2>
     <ul>
       <li>👩‍💻 I am Tejal Pathak from India.</li>
@@ -15,8 +15,8 @@
       <li>📫 How to reach me: <a href="https://www.linkedin.com/in/tejal-pathak-666b4a324/">Linkedin</a>.</li>
     </ul>
   </div>
-  <div>
-    <img src="https://github.com/TejalPathak23/TejalPathak23/blob/main/coding.gif" width="200" height="140" alt="Coding GIF">
+  <div style="flex-shrink: 0;">
+    <img src="https://github.com/TejalPathak23/TejalPathak23/blob/main/coding.gif" width="180" height="160" alt="Coding GIF">
   </div>
 </div>
 
