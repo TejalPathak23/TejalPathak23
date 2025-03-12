@@ -8,7 +8,7 @@
     <h2>Some info on me</h2>
     <ul>
       <li>👩‍💻 I am Tejal Pathak from India.</li>
-      <li>🎓 I’m currently working as a Salesforce Developer in Drizzle IT Services.</li>
+      <li>🎓 I’m currently working as a Software Developer.</li>
       <li>🌱 I’m currently learning and improving my basic CS fundamentals and practising competitive programming.</li>
       <li>🤝 I always look forward to collaborating on exciting Open-source Projects.</li>
       <li>💬 Ask me about Fundamentals of Computer Science, technologies, Competitive programming, and life in general.</li>
